@@ -1,1 +1,1 @@
-my portfolio :> vibe coded
+This is development phase where my portfolio are being updated locally.
